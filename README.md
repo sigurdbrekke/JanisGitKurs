@@ -1,2 +1,4 @@
 # JanisGitKurs
-Sigurd Brekke Windows 11
+Sigurd Munk Brekke
+Windows 11 Home
+Git-2.42.02
